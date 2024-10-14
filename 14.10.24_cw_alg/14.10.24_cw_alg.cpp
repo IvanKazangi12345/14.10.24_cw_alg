@@ -3,7 +3,6 @@
 using namespace std;
 
 class Stack {
-private:
     char* stackArray;
     int maxSize;
     int top;
